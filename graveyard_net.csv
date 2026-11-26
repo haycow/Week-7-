@@ -1,0 +1,41 @@
+source,target,relationship,certainty
+John Thompson,Mary Thompson,spouse,stated
+John Thompson,Sarah Thompson,parent,stated
+Mary Thompson,Sarah Thompson,parent,inferred
+John Thompson,Robert Thompson,parent,stated
+Mary Thompson,Robert Thompson,parent,inferred
+John Thompson,James Thompson,parent,stated
+Mary Thompson,James Thompson,parent,inferred
+William Hayes,Elizabeth Hayes,spouse,stated
+William Hayes,Thomas Hayes,parent,stated
+Elizabeth Hayes,Thomas Hayes,parent,inferred
+William Hayes,Margaret Hayes,parent,stated
+Elizabeth Hayes,Margaret Hayes,parent,inferred
+Samuel Miller,Ruth Miller,spouse,stated
+Samuel Miller,Benjamin Miller,parent,stated
+Ruth Miller,Benjamin Miller,parent,inferred
+Samuel Miller,Hannah Miller,parent,stated
+Ruth Miller,Hannah Miller,parent,inferred
+Charles Clark,Emma Clark,spouse,stated
+Charles Clark,Frank Clark,parent,stated
+Emma Clark,Frank Clark,parent,inferred
+Charles Clark,Lucy Clark,parent,stated
+Emma Clark,Lucy Clark,parent,inferred
+George Wilson,Martha Wilson,spouse,stated
+George Wilson,Joseph Wilson,parent,stated
+Martha Wilson,Joseph Wilson,parent,inferred
+George Wilson,Mary Wilson,parent,stated
+Martha Wilson,Mary Wilson,parent,inferred
+Robert Thompson,Alice Thompson,spouse,stated
+John Thompson,William Hayes,business partner,stated
+Thomas Hayes,Catherine Hayes,parent,inferred
+Thomas Hayes,David Hayes,parent,stated
+Benjamin Miller,Edward Miller,parent,stated
+Edward Miller,Catherine Hayes,spouse,stated
+Frank Clark,Henry Clark,parent,stated
+Frank Clark,Rose Clark,spouse,stated
+Joseph Wilson,Peter Wilson,parent,stated
+Joseph Wilson,Anna Wilson,spouse,stated
+Frank Clark,Hannah (surname unknown),possible spouse,uncertain
+Robert Thompson,Margaret Hayes,possible shared headstone,uncertain
+Charles Clark,Mary Wilson,possible shared headstone,uncertain
